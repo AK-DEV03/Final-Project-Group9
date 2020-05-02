@@ -7,6 +7,7 @@ Bone Age Preduiction using Multi layered perceptron, convolutional neural networ
 To run the Model:
 
 Run MLP_Custom_CNN.py
+
 Run Xception.py
 
 ## Data:
