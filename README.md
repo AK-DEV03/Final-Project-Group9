@@ -1,4 +1,4 @@
-# FinalProject-Group9
+# Final-Project-Group9
 ML2 Final Project Group9
 # RSNA Bone Age Prediction
 Bone Age Preduiction using Multi layered perceptron, convolutional neural network and Pretrained model Xception.
