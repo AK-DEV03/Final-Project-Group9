@@ -4,8 +4,6 @@ ML2 Final Project Group9
 Bone Age Preduiction using Multi layered perceptron, convolutional neural network and Pretrained model Xception.
 
 ## Usage:
-The run script assumes python 3.x is being used and it is accessible as `python`.
-
 To run the Model:
 
 Run MLP_Custom_CNN.py
