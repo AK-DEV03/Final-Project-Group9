@@ -29,11 +29,15 @@ root
 ├── AkhilKumar-Baipaneni-individual-project
 │   ├── Code
 │   │   └── mywork.py
+│   │   └── boneage-training-dataset.csv
+│   │   └── boneage-test-dataset.csv
 │   └── Individual-Final-Project-Report
 │       └── AkhilKumar-Baipaneni-final-project.pdf
 ├── Abhishek-Nimmakayala-individual-project
 │   ├── Code
 │   │   └── mywork.py
+│   │   └── boneage-training-dataset.csv
+│   │   └── boneage-test-dataset.csv
 │   └── Individual-Final-Project-Report
 │       └── Abhishek-Nimmakayala-final-project.pdf
 ├── Final-Group-Presentation
